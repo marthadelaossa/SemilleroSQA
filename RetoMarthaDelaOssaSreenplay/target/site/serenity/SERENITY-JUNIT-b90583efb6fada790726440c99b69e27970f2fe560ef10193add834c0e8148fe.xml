@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="Busqueda de tres productos exitosomante por la caja de texto" skipped="0" tests="1" time="55.47" timestamp="2022-08-14 05:21:22"><testcase name="Buscar productos"><failure message="&#10;Expected: an element containing 'Flats'&#10;     but:  was the element identified by xpath: (//h1[@id='p_title']) [Entity PP16 Composite Flat Pedals]" type="java.lang.AssertionError">
+Expected: an element containing 'Flats'
+     but:  was the element identified by xpath: (//h1[@id='p_title']) [Entity PP16 Composite Flat Pedals]</failure><system-err>
+Expected: an element containing 'Flats'
+     but:  was the element identified by xpath: (//h1[@id='p_title']) [Entity PP16 Composite Flat Pedals]&#13;
+com.bikesonline.www.stepDefinitions.BackgroundBusquedaStepDefinitions.quieroBuscarTresProductos(BackgroundBusquedaStepDefinitions.java:29)&#13;
+✽.quiero buscar tres productos(src/test/resources/com.bikesonline.www.features/busquedaBackground.feature:21)&#13;
+</system-err></testcase></testsuite>
