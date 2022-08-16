@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Busqueda de tres productos exitosomante por la caja de texto","Buscar productos","FAILURE","2022-08-15T20:13:18.201-05:00[America/Bogota]","0.0","79.64"
+"Busqueda de 3 productos exitosomante por la caja de texto y Productos enviados desde excel","Buscar Productos","SUCCESS","2022-08-15T20:14:40.739-05:00[America/Bogota]","0.0","56.84"
+"Busqueda de 5 productos exitosomante por la caja de texto","Buscar el ProductoPolygon","SUCCESS","2022-08-15T20:16:11.901-05:00[America/Bogota]","0.0","144.96"
+"Busqueda de un producto exitosomante de forma aleatoria","Buscar Productos","SUCCESS","2022-08-15T20:15:38.519-05:00[America/Bogota]","0.0","33.09"
