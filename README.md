@@ -36,7 +36,7 @@ Este repositorio contiene los retos superados exitosamente en el semillero de Au
 
 ##  Objetivo
 
-  Crear un proyecto completo de Pruebas Automatizadas usando Java y Selenium, con el patron de diesño POM.
+  Crear un proyecto completo de Pruebas Automatizadas usando Java y Selenium, con el patron de diesño Screenplay.
   
   Ingresar a la página https://www.bikesonline.com/ y automatizar 4 flujos, los cuales deben estar separados cada uno en un feature por aparte.
   
